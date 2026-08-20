@@ -217,8 +217,8 @@ Smart-Locker/
 Karya perangkat lunak dan arsitektur sistem Smart Locker ini telah terdaftar secara resmi sebagai **Hak Cipta Program Komputer** pada **Direktorat Jenderal Kekayaan Intelektual (DJKI) Kementerian Hukum dan HAM Republik Indonesia**:
 
 - **Pencipta Utama:** Rangga Ayi Pratama (NIM: 062330701526)
-- **Co-Pencipta 1 (Dosen Pembimbing):** Ica Admirani, S.Kom., M.Kom. (NIP: 197903282005012001)
-- **Co-Pencipta 2 (Dosen Pembimbing):** Della Oktaviany, S.Kom., M.T.I. (NIP: 199010072022032005)
+- **Co-Pencipta 1 (Dosen Pembimbing):** Ica Admirani, S.Kom., M.Kom.
+- **Co-Pencipta 2 (Dosen Pembimbing):** Della Oktaviany, S.Kom., M.T.I.
 - **Institusi:** Program Studi D3 Teknik Komputer — Politeknik Negeri Sriwijaya (POLSRI), Palembang (2026)
 - **Dokumen Terkait:** _Manual Penggunaan dan Spesifikasi Program Komputer — DJKI Kemenkumham RI_ (tersedia di `docs/SMART LOCKER PAKET.pdf`)
 
