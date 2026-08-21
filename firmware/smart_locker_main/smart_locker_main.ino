@@ -63,7 +63,7 @@ const int xshutPins[JUMLAH_LOKER] = {0, 2, 4};
 const int mc38Pins[JUMLAH_LOKER] = {1, 3, 5};
 const uint8_t vl53Addr[JUMLAH_LOKER] = {0x30, 0x31, 0x32};
 
-#define BOTtoken "8527910174:AAE8zeIUwjyY3SuZr-IFtOwANmrGqyYcLPg"
+#define BOTtoken "0000000000:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 WiFiClientSecure clientPoll;
 UniversalTelegramBot botPoll(BOTtoken, clientPoll);
@@ -222,7 +222,7 @@ void setup() {
   
   WiFi.setAutoReconnect(true);
   if (ssid.length() > 0) WiFi.begin(ssid.c_str(), pass.c_str());
-  else WiFi.begin("palembang 01", "Athallah");
+  else WiFi.begin("YourWiFiSSID", "YourWiFiPassword");
   clientPoll.setInsecure();
   clientPoll.setTimeout(5000);
 

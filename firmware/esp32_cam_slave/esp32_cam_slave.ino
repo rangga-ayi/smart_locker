@@ -7,10 +7,10 @@
 #define DBG(x)    if(DEBUG_MODE) Serial.println(x)
 #define DBGF(...) if(DEBUG_MODE) Serial.printf(__VA_ARGS__)
 
-const char* DEFAULT_WIFI_SSID = "palembang 01";
-const char* DEFAULT_WIFI_PASS = "Athallah";
+const char* DEFAULT_WIFI_SSID = "YourWiFiSSID";
+const char* DEFAULT_WIFI_PASS = "YourWiFiPassword";
 
-#define BOTtoken "8527910174:AAE8zeIUwjyY3SuZr-IFtOwANmrGqyYcLPg"
+#define BOTtoken "0000000000:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 const char* TELEGRAM_HOST = "api.telegram.org";
 const int TELEGRAM_PORT = 443;
 Preferences prefs;
